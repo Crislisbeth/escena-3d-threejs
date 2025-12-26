@@ -44,4 +44,3 @@ Estas luces puntuales se mueven constantemente, creando variaciones en cómo se 
 - ✅ Diseño completamente responsive
 - ✅ Niebla atmosférica para profundidad visual
 
-## 📁 Estructura del Proyecto
